@@ -3,5 +3,5 @@ This is commit one.
 This is commit two.
 This is commit three. Feature 1: This is commit one.
 This is commit four. Feature 1: This is commit two.
-
+Feature 2: This is commit one.
 
