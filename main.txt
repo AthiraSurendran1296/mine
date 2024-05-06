@@ -2,3 +2,4 @@ This is commit zero.
 This is commit one.
 This is commit two.
 This is commit three.
+This is commit four.
